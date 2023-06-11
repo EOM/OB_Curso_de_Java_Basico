@@ -6,9 +6,7 @@ Lista de Ejercicios
 - [Ejercicio Tema 4](EjerciciosTema4/)
 - [Ejercicio Tema 5](EjerciciosTema5/)
 - [Ejercicio Tema 6](EjerciciosTema6/)
-- [Ejercicio Tema 7](EjerciciosTema7/)
-- [Ejercicio Tema 8](EjerciciosTema8/)
-- [Ejercicio Tema 9](EjerciciosTema9/)
+- [Ejercicio Tema 7](EjerciciosTema7_8_y_9/)
 
 > **Herramientas Utilizadas:**
 > 
